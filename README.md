@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Currently a 3nd-year student at Epitech Lille, I'm passionate about software development and technological innovation.<br><br>🚀 I'm always looking for new challenges and collaborative projects. Feel free to reach out for any collaboration opportunities or just to chat about tech!<br><br>📸 When I'm not coding, you can find me capturing moments through my lens, combining my love for technology and creativity.</p>
+<p align="left">🎓 Currently a 4nd-year student at Epitech Lille, I'm passionate about software development and technological innovation.<br><br>🚀 I'm always looking for new challenges and collaborative projects. Feel free to reach out for any collaboration opportunities or just to chat about tech!<br><br>📸 When I'm not coding, you can find me capturing moments through my lens, combining my love for technology and creativity.</p>
 
 ###
 
