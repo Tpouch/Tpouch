@@ -1,110 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=190&section=header&text=Thibault%20Pouch&fontSize=52&fontColor=ECEFF4&fontAlignY=38&desc=Full-stack%20%C2%B7%20DevOps%20%C2%B7%20Game%20dev&descSize=18&descColor=88C0D0&descAlignY=60" alt="Thibault Pouch banner" />
+<img src="./assets/banner.svg" alt="DevGoblin: Hi, I'm Thibault. Sites that run. Servers that hold." width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=88C0D0&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B+I'm+Thibault+aka+Pandorian;Software+engineering+student+%40+Epitech;I+build+web+apps%2C+games+and+infra;Open+to+freelance+missions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1200&color=111111&center=true&vCenter=true&width=620&lines=Thibault+Pouch+aka+Pandorian;Software+engineering+student+%40+Epitech;I+build+web+apps%2C+games+and+infra;Freelance+in+Barcelona+and+remote" alt="Typing animation" />
 </a>
 
 </div>
 
-###
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 👋 About me
+<img src="./assets/tag-about.svg" alt="About me" />
 
-🎓 4th-year student at **Epitech** (Grande École programme), passionate about software development and technological innovation.
+Fourth-year student at **Epitech** (Grande Ecole programme), passionate about software development and technological innovation.
 
-🚀 I work on the whole chain: from the interface to the server that hosts it. I like self-hosted, CLI-first tooling, clean architecture and documentation that explains *why*, not only *what*.
+I work on the whole chain, from the interface to the server that hosts it. I like self-hosted, CLI-first tooling, clean architecture and documentation that explains *why*, not only *what*.
 
-🎮 I'm part of **CrowMate**, a team of Epitech classmates building a game and its web ecosystem (gamedev and web dev).
+I'm part of **CrowMate**, a team of Epitech classmates building a game and its web ecosystem. When I'm not coding, I'm behind a lens capturing moments.
 
-📸 When I'm not coding, you can find me capturing moments through my lens.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-###
+<img src="./assets/tag-freelance.svg" alt="DevGoblin freelance" />
 
-## 🧌 DevGoblin: freelance
+**Sites that run. Servers that hold.** I take on freelance missions under the **DevGoblin** brand, from Barcelona or remotely:
 
-I take on freelance missions under the **DevGoblin** brand:
-
-- 🌐 Websites and web apps (showcase sites, intranets, e-commerce customisation)
-- 🏗️ Architecture and DevOps (servers, Docker, CI/CD, self-hosting)
-- 📱 A bit of mobile (PWA)
+- **Websites and web apps**: showcase sites, intranets, e-commerce customisation
+- **Architecture and DevOps**: servers, Docker, CI/CD, self-hosting
+- **A bit of mobile**: PWA
 
 <a href="https://devgoblin.fr" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=devgoblin.fr&logo=firefoxbrowser&label=&color=5E81AC&logoColor=white&style=for-the-badge" height="35" alt="DevGoblin website" />
+  <img src="https://img.shields.io/static/v1?message=DEVGOBLIN.FR&label=&color=ff7a3d&labelColor=111111&logo=firefoxbrowser&logoColor=111111&style=for-the-badge" height="38" alt="devgoblin.fr" />
 </a>
 
-###
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ Tech stack
+<img src="./assets/tag-stack.svg" alt="Tech stack" />
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,c,cpp,haskell,bash&theme=dark" height="40" alt="languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,c,cpp,haskell,bash&theme=light" height="44" alt="languages" />
 
 **Frontend and backend**
 
-<img src="https://skillicons.dev/icons?i=vue,nuxt,vite,nodejs,sqlite&theme=dark" height="40" alt="web stack" />
+<img src="https://skillicons.dev/icons?i=vue,nuxt,vite,nodejs,sqlite&theme=light" height="44" alt="web stack" />
 
-<img src="https://img.shields.io/badge/Pinia-2E3440?style=flat-square" alt="Pinia" />
-<img src="https://img.shields.io/badge/Fastify-2E3440?style=flat-square" alt="Fastify" />
-<img src="https://img.shields.io/badge/Hono-2E3440?style=flat-square" alt="Hono" />
-<img src="https://img.shields.io/badge/Drizzle%20ORM-2E3440?style=flat-square" alt="Drizzle ORM" />
-<img src="https://img.shields.io/badge/Dexie.js-2E3440?style=flat-square" alt="Dexie.js" />
+<img src="https://img.shields.io/badge/Pinia-c6f432?style=flat-square" alt="Pinia" />
+<img src="https://img.shields.io/badge/Fastify-c6f432?style=flat-square" alt="Fastify" />
+<img src="https://img.shields.io/badge/Hono-c6f432?style=flat-square" alt="Hono" />
+<img src="https://img.shields.io/badge/Drizzle%20ORM-c6f432?style=flat-square" alt="Drizzle ORM" />
+<img src="https://img.shields.io/badge/Dexie.js-c6f432?style=flat-square" alt="Dexie.js" />
 
 **Infrastructure and DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,jenkins,github,git&theme=dark" height="40" alt="devops stack" />
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,jenkins,github,git&theme=light" height="44" alt="devops stack" />
 
-<img src="https://img.shields.io/badge/Proxmox-2E3440?style=flat-square" alt="Proxmox" />
-<img src="https://img.shields.io/badge/Portainer-2E3440?style=flat-square" alt="Portainer" />
-<img src="https://img.shields.io/badge/Coolify-2E3440?style=flat-square" alt="Coolify" />
-<img src="https://img.shields.io/badge/Gitea%20Actions-2E3440?style=flat-square" alt="Gitea Actions" />
-<img src="https://img.shields.io/badge/SonarQube-2E3440?style=flat-square" alt="SonarQube" />
-<img src="https://img.shields.io/badge/Authentik-2E3440?style=flat-square" alt="Authentik" />
+<img src="https://img.shields.io/badge/Proxmox-ff7a3d?style=flat-square" alt="Proxmox" />
+<img src="https://img.shields.io/badge/Portainer-ff7a3d?style=flat-square" alt="Portainer" />
+<img src="https://img.shields.io/badge/Coolify-ff7a3d?style=flat-square" alt="Coolify" />
+<img src="https://img.shields.io/badge/Gitea%20Actions-ff7a3d?style=flat-square" alt="Gitea Actions" />
+<img src="https://img.shields.io/badge/SonarQube-ff7a3d?style=flat-square" alt="SonarQube" />
+<img src="https://img.shields.io/badge/Authentik-ff7a3d?style=flat-square" alt="Authentik" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,md,blender,unity&theme=dark" height="40" alt="tools" />
+<img src="https://skillicons.dev/icons?i=vscode,md,blender,unity&theme=light" height="44" alt="tools" />
 
-###
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub stats
+<img src="./assets/tag-stats.svg" alt="Stats" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TPouch&show_icons=true&include_all_commits=true&count_private=true&theme=nord&locale=en&hide_border=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPouch&layout=compact&theme=nord&hide_border=true&langs_count=8" height="170" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TPouch&show_icons=true&include_all_commits=true&count_private=true&bg_color=f4efe3&title_color=111111&text_color=111111&icon_color=ff7a3d&border_color=111111&border_radius=0&locale=en" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPouch&layout=compact&langs_count=8&bg_color=f4efe3&title_color=111111&text_color=111111&border_color=111111&border_radius=0" height="170" alt="top languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=TPouch&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=TPouch&mode=daily&background=F4EFE3&border=111111&stroke=111111&ring=ff7a3d&fire=ff7a3d&currStreakNum=111111&sideNums=111111&currStreakLabel=111111&sideLabels=111111&dates=111111&border_radius=0" height="150" alt="streak" />
 </div>
 
-###
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 📫 Let's talk
+<img src="./assets/tag-contact.svg" alt="Contact" />
 
-Feel free to reach out for a collaboration, a mission, or just to chat about tech.
+Open for a collaboration, a mission, or just to talk tech.
 
-<div align="left">
-  <a href="https://devgoblin.fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DevGoblin&logo=firefoxbrowser&label=&color=5E81AC&logoColor=white&style=for-the-badge" height="35" alt="DevGoblin" />
-  </a>
-  <a href="https://www.linkedin.com/in/thibault-pouch-16a675223/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/iam.thibault_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="mailto:thibault.pouch@epitech.eu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="Email" />
-  </a>
-</div>
-
-###
+<a href="https://devgoblin.fr" target="_blank"><img src="https://img.shields.io/static/v1?message=DEVGOBLIN&label=&color=ff7a3d&labelColor=111111&logo=firefoxbrowser&logoColor=111111&style=for-the-badge" height="38" alt="DevGoblin" /></a>
+<a href="https://www.linkedin.com/in/thibault-pouch-16a675223/" target="_blank"><img src="https://img.shields.io/static/v1?message=LINKEDIN&label=&color=c6f432&labelColor=111111&logo=linkedin&logoColor=111111&style=for-the-badge" height="38" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/iam.thibault_/" target="_blank"><img src="https://img.shields.io/static/v1?message=INSTAGRAM&label=&color=c6f432&labelColor=111111&logo=instagram&logoColor=111111&style=for-the-badge" height="38" alt="Instagram" /></a>
+<a href="mailto:thibault.pouch@epitech.eu" target="_blank"><img src="https://img.shields.io/static/v1?message=EMAIL&label=&color=c6f432&labelColor=111111&logo=maildotru&logoColor=111111&style=for-the-badge" height="38" alt="Email" /></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/boxofpandor/boxofpandor/output/snake.svg" alt="Snake animation" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:2E3440&height=110&section=footer" alt="footer" />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="https://raw.githubusercontent.com/boxofpandor/boxofpandor/output/snake.svg" alt="Snake animation" />
+
+`by Thibault Pouch, full-stack & DevOps developer`
+
 </div>
